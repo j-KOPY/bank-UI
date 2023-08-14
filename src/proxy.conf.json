@@ -1,0 +1,6 @@
+{
+    "/api": {
+    "target": "https://api.atlar.com/v1/accounts",
+    "secure": false
+    }
+}

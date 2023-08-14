@@ -68,7 +68,9 @@
               "browserTarget": "atlar-assignment:build:production"
             },
             "development": {
-              "browserTarget": "atlar-assignment:build:development"
+              "browserTarget": "atlar-assignment:build:development",
+              "proxyConfig": "src/proxy.conf.js",
+              "port": 3000
             }
           },
           "defaultConfiguration": "development"
